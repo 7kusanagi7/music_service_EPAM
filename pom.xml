@@ -7,7 +7,7 @@
     <groupId>kz.epam.store</groupId>
     <artifactId>store</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>Online store EPAM</name>
+    <name>music service EPAM</name>
     <packaging>war</packaging>
 
     <properties>

@@ -19,7 +19,7 @@
       <configuration>
         <setting name="validation-enabled" value="true" />
         <datasource-mapping>
-          <factory-entry name="Online store EPAM" />
+          <factory-entry name="Music service EPAM" />
         </datasource-mapping>
         <naming-strategy-map />
       </configuration>
