@@ -11,6 +11,7 @@ Tools->Restore->Выбрать файл database.sql
 Скомпилировать артефакт Music service EPAM и разместить .war файл в папке Tomcat/webapps/..
 
 Список пользователей и паролей, содержащихся в БД:
+
 Пользователь-администратор:
 admin
 c493bgaTnD74B5z
